@@ -1,7 +1,8 @@
-package com.example.timer
+package presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.timer.R
 
 class MainActivity : AppCompatActivity() {
 
